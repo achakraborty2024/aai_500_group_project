@@ -1,1 +1,1 @@
-Welcome to AAI 500 team project for San diego students
+Estimating the Effects of Major PC Components on the Execution Time of an Image Recognition Task.
